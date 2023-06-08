@@ -32,7 +32,6 @@ body {
   background: royalblue;
   box-sizing: border-box;
   display: flex;
-  margin-right: 30px;
   padding-right: 16px;
   min-width: 300px;
 }
@@ -71,10 +70,7 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  display: flex;
-  flex: 0.5;
-  padding: 20px;
-  flex-wrap: wrap;
-  min-width: 20%;
-  width: 0;
+  padding: 16px;
+  margin: 16px;
+  width: 300px;
 }
